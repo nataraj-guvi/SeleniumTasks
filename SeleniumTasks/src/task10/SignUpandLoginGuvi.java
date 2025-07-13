@@ -14,7 +14,7 @@ public class SignUpandLoginGuvi {
 	WebDriver driver;
 	WebDriverWait wait;
 	String name = "natarajasundaram";
-	String emailid = "abcd12345@gmail.com";
+	String emailid = "abcd1234567@gmail.com";
 	String password = "test@123";
 	String mobile = "9865180789";
 	String url = "https://www.guvi.in/";
